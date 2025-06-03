@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime
 
 # load data
 df = pd.read_csv('datasets/netflix_titles.csv')
@@ -15,4 +16,4 @@ df_movies['Count'] = 1 # adds a count column
 
 # Save to outputs
 df_movies.to_csv('outputs/netflix_movies_clean_2015.csv', index=False) # No index coulmn in data i.e no column giving every row a number
-print("Cleaned data saved for Tableau (Post 2015)")
+print(f"Cleaned data saved for Tableau on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
