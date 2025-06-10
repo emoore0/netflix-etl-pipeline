@@ -13,3 +13,17 @@ The countries that have dominated since 2015 have also dominated post 2020 (US, 
 Peak of rmovie releases from the data seems to be in 2017. 2020 and 2021 have significantly lower movies released and it's likely this was as a result of the pandemic
 
 Comedies and Dramas make up the majority of titles released since 2015 looking at the genres
+
+## Observations after beginning Netflix Movie genre analysis
+
+Drama seems to be very popular genre in all 3 countries. It's the most popular in the US. 
+
+The genre that had the greatest number of titles in india was international movies with Drama as second. 
+
+International movies was second in UK, drama was third and documentaries were first. 
+
+Documentaries and comedies also dominated the top 5 of india and US. the spread of genres reflects the cultures of the individual countries. 
+
+International movies dominates a lot as Netflix is a US owned company so that makes sense. Stand up comedies are seemingly barely watched in India compared to the UK and US.
+
+
