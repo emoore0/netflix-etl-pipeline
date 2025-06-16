@@ -1,0 +1,14 @@
+# Ignore SQLite temp files
+*.db-journal
+*.sqbpro
+
+# Ignore Tableau autosaves
+~*.twbr
+
+# Ignore Python cruft
+__pycache__/
+*.pyc
+
+# Optional: ignore outputs if you don’t want to commit generated files
+
+outputs/csv_files/*.csv
