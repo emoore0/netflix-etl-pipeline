@@ -9,6 +9,8 @@
 __pycache__/
 *.pyc
 
-# Optional: ignore outputs if you don’t want to commit generated files
+# Ignore virtual environment
+venv/
 
+# Optional: ignore outputs if you don’t want to commit generated files
 outputs/csv_files/*.csv
